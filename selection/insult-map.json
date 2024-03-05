@@ -14,7 +14,16 @@
             }
         ],
         "romaji": "yarou",
-        "hirigana": "やろう"
+        "hirigana": "やろう",
+        "examples": [
+            {
+                "phrase": "その野郎はほんとにうさいよ！",
+                "translations": [
+                    "That bastard is really annoying!",
+                    "That bitch is really annoying!"
+                ]
+            }
+        ]
     },
     {
         "word": "馬鹿",
@@ -35,6 +44,17 @@
                 "definition": "fool",
                 "popularity": 3,
                 "opt_rules": "literal meaning"
+            }
+        ],
+        "examples": [
+            {
+                "phrase": "とても馬鹿くないで。",
+                "translations": [
+                    "Don't be such an idiot.",
+                    "Don't be so stupid.",
+                    "Don't be so foolish.",
+                    "Don't be such a fool."
+                ]
             }
         ]
     }
