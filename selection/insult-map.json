@@ -5,12 +5,12 @@
             {
                 "definition": "bastard",
                 "popularity": 5,
-                "rules": "This is a correct translation for males"
+                "opt_rules": "This is a correct translation for males"
             },
             {
                 "definition": "bitch",
                 "popularity": 5,
-                "rules": "This is a correct translation for females"
+                "opt_rules": "This is a correct translation for females"
             }
         ],
         "romaji": "yarou",
@@ -21,7 +21,20 @@
         "meanings": [
             {
                 "definition": "idiot",
-
+                "popularity": 5
+            },
+            {
+                "definition": "imbecile",
+                "popularity": 4
+            },
+            {
+                "definition": "dummy",
+                "popularity": 3.5
+            },
+            {
+                "definition": "fool",
+                "popularity": 3,
+                "opt_rules": "literal meaning"
             }
         ]
     }
