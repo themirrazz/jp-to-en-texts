@@ -5,42 +5,23 @@
             {
                 "definition": "bastard",
                 "popularity": 5,
-                "usage": "when targetted at males"
+                "rules": "This is a correct translation for males"
             },
             {
                 "definition": "bitch",
                 "popularity": 5,
-                "usage": "when targetted at females"
-            },
+                "rules": "This is a correct translation for females"
+            }
+        ],
+        "romaji": "yarou",
+        "hirigana": "やろう"
+    },
+    {
+        "word": "馬鹿",
+        "meanings": [
             {
-                "definition": "son of a bitch",
-                "popularity": 4,
-                "usage": "when targetted at anyone"
-            },
-            {
-                "definition": "asshole",
-                "popularity": 3,
-                "usage": "when targetted at anyone"
-            },
-            {
-                "definition": "jerk",
-                "popularity": 2,
-                "usage": "when targetted at anyone"
-            },
-            {
-                "definition": "punk",
-                "popularity": 2,
-                "usage": "when targetted at anyone"
-            },
-            {
-                "definition": "rascal",
-                "popularity": 1,
-                "usage": "when targetted at anyone"
-            },
-            {
-                "definition": "guy",
-                "popularity": 1,
-                "usage": "when targetted at anyone"
+                "definition": "idiot",
+
             }
         ]
     }
