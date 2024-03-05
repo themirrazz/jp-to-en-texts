@@ -46,6 +46,8 @@
                 "opt_rules": "literal meaning"
             }
         ],
+        "romaji": "baka",
+        "hirigana": "ばか",
         "examples": [
             {
                 "phrase": "とても馬鹿くないで。",
@@ -54,6 +56,36 @@
                     "Don't be so stupid.",
                     "Don't be so foolish.",
                     "Don't be such a fool."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "死ね",
+        "meanings": [
+            {
+                "definition": "go to hell",
+                "popularity": 5
+            },
+            {
+                "definition": "die",
+                "popularity": 5,
+                "opt_rules": "literal meaning - shine meanings you are commanding someone to die"
+            },
+            {
+                "definition": "fuck you",
+                "popularity": 4
+            }
+        ],
+        "romaji": "shine",
+        "hirigana": "しね",
+        "examples": [
+            {
+                "phrase": "死ね、この野郎！",
+                "translations": [
+                    "Die, you bastard!",
+                    "Go to hell, you bastard!",
+                    "Fuck you, you bastard!"
                 ]
             }
         ]
