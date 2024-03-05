@@ -1,5 +1,41 @@
 [JPN]
-To be done
+カズ：くそ喰らえ、この野郎！
+タコ：は？！て目は俺に何言った？！
+カズ：言った...「くそ喰らえ、この野郎。」
+タコ：あああああああ！！！死ねよ！
 
-[ENG]
-To be done
+[ENG0]
+Kazu: Eat shit, you bastard!
+Tako: Huh?! What the hell did you say to me?!
+Kazu: I said... "Eat shit, you bastard."
+Tako: Ahhhhhhhh!!! Die!
+
+[ENG1]
+Kazu: Eat shit, you bastard!
+Tako: Huh?! What did you say to me?!
+Kazu: I said... "Eat shit, you bastard."
+Tako: Ahhhhhhhh!!! Die!
+
+[ENG2]
+Kazu: Eat crap, you bastard!
+Tako: Huh?! What the hell did you say to me?!
+Kazu: I said... "Eat crap, you bastard."
+Tako: Ahhhhhhhh!!! Die!
+
+[ENG3]
+Kazu: Eat shit, you jerk!
+Tako: Huh?! What the hell did you say to me?!
+Kazu: I said... "Eat shit, you jerk."
+Tako: Ahhhhhhhh!!! Die!
+
+[ENG4]
+Kazu: Eat shit, you bastard!
+Tako: Huh?! What the hell did you say to me?!
+Kazu: I said... "Eat shit, you bastard."
+Tako: Ahhhhhhhh!!! Go to hell!
+
+[ENG5]
+Kazu: Eat shit, you bastard!
+Tako: Huh?! What the hell did you say to me?!
+Kazu: I said... "Eat shit, you bastard."
+Tako: Ahhhhhhhh!!! Fuck you!
